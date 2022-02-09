@@ -1,0 +1,4 @@
+Python3.x.x
+textwrap
+argparse
+requests_html
